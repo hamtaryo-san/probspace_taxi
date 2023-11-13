@@ -1,8 +1,8 @@
 ---
 name: "\U0001F33CDiscussion"
-about: "\U0001F33CDiscussion"
+about: Discussion
 title: "【\U0001F33CDiscussion】ここにタイトルを記載"
-labels: ''
+labels: Discussion
 assignees: hamtaryo-san
 
 ---

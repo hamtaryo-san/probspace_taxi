@@ -1,8 +1,8 @@
 ---
 name: "\U0001F4C4Research"
-about: "\U0001F4C4Research"
+about: Research
 title: "【\U0001F4C4Research】ここにタイトルを記載"
-labels: ''
+labels: Research
 assignees: hamtaryo-san
 
 ---
