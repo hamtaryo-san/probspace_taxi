@@ -2,15 +2,15 @@
 2023f/服部研分析コンペチームのレポジトリ
 <br>
 みんなでメダル取るぞ~~
-
-
+<br>
+<br>
 
 ## 注意書き
 このレポジトリはhttps://www.takapy.work/entry/2020/12/22/225715を参考に作成しています！
 <br>
 やりづらいあったらルールを修正していけるのでぜひ共有お願いします！！
-
-
+<br>
+<br>
 
 ## 運用の仕組み
 ### 読んだDiscussionや行った実験、調べたものをIssueにまとめて共有
@@ -19,15 +19,15 @@
 Discussion、Experiment、Researchの三つのIssueテンプレート作成したので、
 <br>
 それぞれ、それを利用して共有お願いします！！
-
-
+<br>
+<br>
 
 ### submitしたら
 submitしたら、次のURLのスプレッドシートに記入お願いします！
 <br>
 https://docs.google.com/spreadsheets/d/1kNWhYLyx10ORR4lpQnDTNxGJRFcIt8v7ZJTN-gy1VCY/edit?usp=sharing
-
-
+<br>
+<br>
 
 ### できたらやりたいこと
 もし可能なら、個々人でそれぞれブランチを切って、作成したノートブックをリポジトリにコミットしてください！
